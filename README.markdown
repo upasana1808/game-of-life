@@ -22,6 +22,7 @@ Ideal for developers, software architects, and project managers, Jenkins: The De
  - Organize and monitor general-purpose build jobs
  - Integrate automated tests to verify builds, and set up code quality reporting
  - Establish effective team notification strategies and techniques
+ -  edit done by upasana
  - Configure build pipelines, parameterized jobs, matrix builds, and other advanced jobs
  - Manage a farm of Jenkins servers to run distributed builds
  - Implement automated deployment and continuous delivery
