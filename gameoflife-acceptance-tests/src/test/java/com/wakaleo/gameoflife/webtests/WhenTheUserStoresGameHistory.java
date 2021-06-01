@@ -17,7 +17,7 @@ import org.openqa.selenium.WebDriver;
 public class WhenTheUserStoresGameHistory {
 
     @Test
-    public void aUserShouldBeAbleToSaveASimulationForFutureUse() {----}
+    public void aUserShouldBeAbleToSaveASimulationForFutureUse() {}
 
     @Test
     public void aUserShouldBeAbleToListAllTheSavedSimulations() {}
